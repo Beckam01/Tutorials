@@ -9,4 +9,4 @@ function passwordchecker(pass1, pass2) {
     }
 
 }
-passwordchecker("Abebe1234", "abeb1234");
+passwordchecker("kebe1234", "abeb1234");
